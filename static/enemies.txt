@@ -1,0 +1,12 @@
+NEW Phase
+    NEW Enemy
+        HP 2000
+        CLASS S
+NEW Phase
+    NEW Enemy
+        HP 1500
+        CLASS S
+NEW Phase
+    NEW Enemy
+        HP 2500
+        CLASS S

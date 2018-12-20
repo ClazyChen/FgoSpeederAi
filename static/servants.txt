@@ -1,0 +1,64 @@
+NEW Servant
+    NAME Servant0
+    ATK 100
+    CLASS A
+NEW Servant
+    NAME Servant1
+    ATK 200
+    CLASS A
+NEW Servant
+    NAME Servant2
+    ATK 300
+    CLASS A
+NEW Servant
+    NAME Servant3
+    ATK 100
+    CLASS S
+NEW Servant
+    NAME Servant4
+    ATK 200
+    CLASS S
+NEW Servant
+    NAME Servant5
+    ATK 300
+    CLASS S
+NEW Servant
+    NAME Servant6
+    ATK 100
+    CLASS L
+NEW Servant
+    NAME Servant7
+    ATK 200
+    CLASS L
+NEW Servant
+    NAME Servant8
+    ATK 300
+    CLASS L
+NEW Servant
+    NAME Servant9
+    ATK 100
+    CLASS U
+NEW Servant
+    NAME Servant10
+    ATK 200
+    CLASS U
+NEW Servant
+    NAME Servant11
+    ATK 300
+    CLASS U
+NEW Servant
+    NAME Servant12
+    ATK 100
+    CLASS B
+NEW Servant
+    NAME Servant13
+    ATK 200
+    CLASS B
+NEW Servant
+    NAME Servant14
+    ATK 300
+    CLASS B
+NEW Servant
+    NAME Servant15
+    ATK 300
+    CLASS H

@@ -1,0 +1,6 @@
+# auto
+.idea/
+__pycache__/
+
+# zipped
+*.zip
